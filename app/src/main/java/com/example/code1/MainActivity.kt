@@ -12,4 +12,8 @@ class MainActivity : AppCompatActivity() {
         // m3
         // m4
     }
+
+    fun add() {
+
+    }
 }
